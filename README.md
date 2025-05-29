@@ -1,1 +1,1 @@
-# sales analysis usingm ysql
+# sales analysis using mysql
